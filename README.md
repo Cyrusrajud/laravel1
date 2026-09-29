@@ -1,7 +1,9 @@
 # Personal Task Manager
 
 **Project Code** 
-<ins>WST21-PM-2026-SF</ins>
+
+WST21-PM-2026-SF
+
 **Student Name**
 
 Jhen Rey P. Aniñon
