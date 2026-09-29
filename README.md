@@ -1,12 +1,22 @@
-Project Code: WST21-PM-2026-SF
+# Personal Task Manager
 
-Student Name:Jhen Rey P. Aniñon
+**Project Code** 
 
-Course & Year:BSIT - SECTION 3
+WST21-PM-2026-SF
 
-Database Used: SQLITE
+**Student Name**
 
-Features:
+Jhen Rey P. Aniñon
+
+**Course & Year**
+
+BSIT - SECTION 3
+
+**Database Used**
+
+SQLITE
+
+**Features**
 - Add Task
 - View Tasks
 - Edit Task
